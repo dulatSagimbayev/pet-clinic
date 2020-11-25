@@ -1,4 +1,4 @@
 package springframework.petclinic.model;
 
-public class Vet  extends Person{
+public class Veterinarian  extends Person{
 }
